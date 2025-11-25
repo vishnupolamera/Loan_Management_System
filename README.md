@@ -75,17 +75,22 @@ Enter your choice:
 Developed by **VISHNU POLAMERA**  
 
 ### **output photos from terminal**
-## **Main menu**
+### **Main menu**
 <img width="285" height="185" alt="image" src="https://github.com/user-attachments/assets/61174763-8a3d-42b5-bef1-ed0b3fb6a09b" />
-## **Add loan**
+
+### **Add loan**
 <img width="394" height="299" alt="image" src="https://github.com/user-attachments/assets/945b333e-c36a-4b7e-b4a5-353074f3c99d" />
-## **Mark loan as repaid**
+
+### **Mark loan as repaid**
 <img width="370" height="241" alt="image" src="https://github.com/user-attachments/assets/d1fb62d1-2155-451c-a483-70371efdbd1b" />
-## **update loan**
+
+### **update loan**
 <img width="340" height="347" alt="image" src="https://github.com/user-attachments/assets/53a078c3-038a-4738-a7f4-9569b23b80ef" />
-## **delete loan**
+
+### **delete loan**
 <img width="320" height="238" alt="image" src="https://github.com/user-attachments/assets/d87c49ac-f64c-4b04-97a2-1fb25a85b31d" />
-## **Thanks for reading**
+
+### **Thanks for reading**
 
 
 
